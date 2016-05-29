@@ -1,1 +1,33 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"conjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.\n\tYou must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isnâ\u20AC™t dedicated to your deity, the spell has no effect.\n","Range":{"English":"5 feet","Distance":5},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"289"},"Name":"Word of Recall","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.\n\tYou must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isnâ\u20ac™t dedicated to your deity, the spell has no effect.\n",
+    "Range": {
+        "English": "5 feet",
+        "Distance": 5
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "289"
+    },
+    "Name": "Word of Recall",
+    "Classes": ["cleric"]
+}

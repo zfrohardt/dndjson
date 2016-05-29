@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (an eyelash encased in gum arabic)","Material Description":"an eyelash encased in gum arabic","S":true,"V":true,"M":true},"School":"illusion","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 hour","Seconds":3600,"Concentration":true},"Effect":"\tA creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.\n","Range":{"English":"touch","Distance":5},"Date":"2015-06-07","Source":{"Resource":"PHB","Location":"254"},"Name":"Invisibility","Classes":["bard","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (an eyelash encased in gum arabic)",
+        "Material Description": "an eyelash encased in gum arabic",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "illusion",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 hour",
+        "Seconds": 3600,
+        "Concentration": true
+    },
+    "Effect": "\tA creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-06-07",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "254"
+    },
+    "Name": "Invisibility",
+    "Classes": [
+        "bard",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

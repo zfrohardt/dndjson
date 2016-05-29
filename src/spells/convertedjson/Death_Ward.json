@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tYou touch a creature and grant it a measure of protection from death.\n\tThe first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends.\n\tIf the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.\n","Range":{"English":"touch","Distance":5},"Date":"2015-01-05","Source":{"Resource":"PHB","Location":"230"},"Name":"Death Ward","Classes":["cleric","paladin"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a creature and grant it a measure of protection from death.\n\tThe first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends.\n\tIf the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-01-05",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "230"
+    },
+    "Name": "Death Ward",
+    "Classes": [
+        "cleric",
+        "paladin"
+    ]
+}

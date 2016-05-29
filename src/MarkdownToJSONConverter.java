@@ -4,8 +4,8 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.Scanner;
 
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 public class MarkdownToJSONConverter {
     public static final String CASTING_TIME = "Casting Time";
@@ -104,7 +104,6 @@ public class MarkdownToJSONConverter {
         return jsonRepresentation;
     }
 
-    @SuppressWarnings("unchecked")
     private static void parseHeaderToJSON(Scanner fileReader, JSONObject json) {
         fileReader.nextLine();
         fileReader.nextLine();
@@ -123,19 +122,18 @@ public class MarkdownToJSONConverter {
         fileReader.nextLine();
     }
 
-    @SuppressWarnings("unchecked")
     private static JSONArray parseTagsToClasses(String str) {
         JSONArray array = new JSONArray();
         String removedBrackets = str.substring(1, str.length() - 1);
         String[] elements = removedBrackets.split(", ");
         for (int i = 0; i < elements.length - 1; i++) {
             assert CLASS_LIST.toString().contains(elements[i]);
-            array.add(elements[i]);
+            array.put(elements[i]);
         }
+
         return array;
     }
 
-    @SuppressWarnings("unchecked")
     private static void parseBodyToJSON(Scanner fileReader, JSONObject json) {
         fileReader.nextLine();
         parseLevelSchoolAndRitual(fileReader.nextLine().toLowerCase(), json);
@@ -151,7 +149,6 @@ public class MarkdownToJSONConverter {
         json.put(EFFECT, parseEffect(fileReader));
     }
 
-    @SuppressWarnings("unchecked")
     private static void parseLevelSchoolAndRitual(String line, JSONObject json) {
         String[] valuesArray = line.substring(2, line.length() - 2).split(" ");
         if (line.contains(CANTRIP_IDENTIFIER)) {
@@ -170,7 +167,6 @@ public class MarkdownToJSONConverter {
         }
     }
 
-    @SuppressWarnings("unchecked")
     private static JSONObject parseCastingTime(String line) {
         JSONObject castTimeJson = new JSONObject();
         String castTimeEnglish = line.split(": ")[1];
@@ -205,7 +201,6 @@ public class MarkdownToJSONConverter {
         }
     }
 
-    @SuppressWarnings("unchecked")
     private static JSONObject parseRange(String line) {
         JSONObject rangeJson = new JSONObject();
         String rangeEnglish = line.split(": ")[1];
@@ -228,7 +223,6 @@ public class MarkdownToJSONConverter {
         return rangeJson;
     }
 
-    @SuppressWarnings("unchecked")
     private static JSONObject parseComponents(String line) {
         JSONObject componentsJson = new JSONObject();
         String componentsEnglish = line.split(": ")[1];
@@ -248,7 +242,6 @@ public class MarkdownToJSONConverter {
         return componentsJson;
     }
 
-    @SuppressWarnings("unchecked")
     private static JSONObject parseDuration(String line) {
         JSONObject durationJson = new JSONObject();
         String durationEnglish = line.split(": ")[1];
@@ -283,7 +276,7 @@ public class MarkdownToJSONConverter {
         fileName += spellName.replaceAll(" ", "_").replaceAll("[/\\\\]", "-");
         fileName += ".json";
         PrintWriter writer = new PrintWriter(fileName, "UTF-8");
-        writer.println(json.toJSONString());
+        writer.println(json.toString(4));
         writer.close();
     }
 }

@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (a piece of cork)","Material Description":"a piece of cork","S":true,"V":true,"M":true},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"1 hour","Seconds":3600,"Concentration":false},"Effect":"\tThis spell grants the ability to move across any liquid surface--such as water, acid, mud, snow, quicksand, or lava--as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.\n\tIf you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.\n","Range":{"English":"30 feet","Distance":30},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"287"},"Name":"Water Walk","Classes":["cleric","druid","ranger","sorcerer"]}
+{
+    "Components": {
+        "English": "V, S, M (a piece of cork)",
+        "Material Description": "a piece of cork",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "1 hour",
+        "Seconds": 3600,
+        "Concentration": false
+    },
+    "Effect": "\tThis spell grants the ability to move across any liquid surface--such as water, acid, mud, snow, quicksand, or lava--as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.\n\tIf you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "287"
+    },
+    "Name": "Water Walk",
+    "Classes": [
+        "cleric",
+        "druid",
+        "ranger",
+        "sorcerer"
+    ]
+}

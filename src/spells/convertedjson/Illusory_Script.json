@@ -1,1 +1,37 @@
-{"Components":{"English":"S, M (a lead-based ink worth at least 10gp, which this spell consumes)","Material Description":"a lead-based ink worth at least 10gp, which this spell consumes","S":true,"V":false,"M":true},"School":"illusion","Casting Time":{"English":"1 minute","Seconds":60},"Ritual":true,"Level":"","Duration":{"English":"10 days","Seconds":864000,"Concentration":false},"Effect":"\tYou write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.\n\tTo you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.\n\tShould the spell be dispelled, the original script and the illusion both disappear.\n\tA creature with truesight can read the hidden message.\n","Range":{"English":"touch","Distance":5},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"252"},"Name":"Illusory Script","Classes":["bard","warlock","wizard"]}
+{
+    "Components": {
+        "English": "S, M (a lead-based ink worth at least 10gp, which this spell consumes)",
+        "Material Description": "a lead-based ink worth at least 10gp, which this spell consumes",
+        "S": true,
+        "V": false,
+        "M": true
+    },
+    "School": "illusion",
+    "Casting Time": {
+        "English": "1 minute",
+        "Seconds": 60
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "10 days",
+        "Seconds": 864000,
+        "Concentration": false
+    },
+    "Effect": "\tYou write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.\n\tTo you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.\n\tShould the spell be dispelled, the original script and the illusion both disappear.\n\tA creature with truesight can read the hidden message.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "252"
+    },
+    "Name": "Illusory Script",
+    "Classes": [
+        "bard",
+        "warlock",
+        "wizard"
+    ]
+}

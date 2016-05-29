@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (a small, straight piece of iron)","Material Description":"a small, straight piece of iron","S":true,"V":true,"M":true},"School":"enchantment","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tChoose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.\n\tAt Higher Levels. When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.\n","Range":{"English":"90 feet","Distance":90},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"251"},"Name":"Hold Monster","Classes":["bard","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a small, straight piece of iron)",
+        "Material Description": "a small, straight piece of iron",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "enchantment",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tChoose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.\n\tAt Higher Levels. When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.\n",
+    "Range": {
+        "English": "90 feet",
+        "Distance": 90
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "251"
+    },
+    "Name": "Hold Monster",
+    "Classes": [
+        "bard",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

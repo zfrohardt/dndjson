@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (pinch of sulfur)","Material Description":"pinch of sulfur","S":true,"V":true,"M":true},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tA vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.\n\tAt Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.\n","Range":{"English":"60 feet","Distance":60},"Date":"2015-07-14","Source":{"Resource":"PHB","Location":"242"},"Name":"Flame Strike","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V, S, M (pinch of sulfur)",
+        "Material Description": "pinch of sulfur",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tA vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.\n\tAt Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.\n",
+    "Range": {
+        "English": "60 feet",
+        "Distance": 60
+    },
+    "Date": "2015-07-14",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "242"
+    },
+    "Name": "Flame Strike",
+    "Classes": ["cleric"]
+}

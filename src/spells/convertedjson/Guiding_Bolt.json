@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"1 round","Seconds":6,"Concentration":false},"Effect":"\tA flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then. \n\tAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.\n","Range":{"English":"120 feet","Distance":120},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"248"},"Name":"Guiding Bolt","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "1 round",
+        "Seconds": 6,
+        "Concentration": false
+    },
+    "Effect": "\tA flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then. \n\tAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.\n",
+    "Range": {
+        "English": "120 feet",
+        "Distance": 120
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "248"
+    },
+    "Name": "Guiding Bolt",
+    "Classes": ["cleric"]
+}

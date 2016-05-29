@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (gold dust worth at least 25 gp, which the spell consumes)","Material Description":"gold dust worth at least 25 gp, which the spell consumes","S":true,"V":true,"M":true},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"until dispelled","Seconds":2147483647,"Concentration":false},"Effect":"\tYou touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes.\n\tWhile affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.\n","Range":{"English":"touch","Distance":5},"Date":"2015-01-02","Source":{"Resource":"PHB","Location":"215"},"Name":"Arcane Lock","Classes":["wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (gold dust worth at least 25 gp, which the spell consumes)",
+        "Material Description": "gold dust worth at least 25 gp, which the spell consumes",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "until dispelled",
+        "Seconds": 2147483647,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes.\n\tWhile affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-01-02",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "215"
+    },
+    "Name": "Arcane Lock",
+    "Classes": ["wizard"]
+}

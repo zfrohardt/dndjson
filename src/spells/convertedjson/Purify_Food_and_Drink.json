@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tAll nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.\n","Range":{"English":"10 feet","Distance":10},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"270"},"Name":"Purify Food and Drink","Classes":["cleric","druid","paladin"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tAll nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.\n",
+    "Range": {
+        "English": "10 feet",
+        "Distance": 10
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "270"
+    },
+    "Name": "Purify Food and Drink",
+    "Classes": [
+        "cleric",
+        "druid",
+        "paladin"
+    ]
+}

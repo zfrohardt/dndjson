@@ -1,1 +1,38 @@
-{"Components":{"English":"V, M (a firefly or phosphorescent moss)","Material Description":"a firefly or phosphorescent moss","S":false,"V":true,"M":true},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"cantrip","Duration":{"English":"1 hour","Seconds":3600,"Concentration":false},"Effect":"\tYou touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.\n\tIf you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.\n","Range":{"English":"touch","Distance":5},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"255"},"Name":"Light","Classes":["bard","cleric","sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, M (a firefly or phosphorescent moss)",
+        "Material Description": "a firefly or phosphorescent moss",
+        "S": false,
+        "V": true,
+        "M": true
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "cantrip",
+    "Duration": {
+        "English": "1 hour",
+        "Seconds": 3600,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.\n\tIf you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "255"
+    },
+    "Name": "Light",
+    "Classes": [
+        "bard",
+        "cleric",
+        "sorcerer",
+        "wizard"
+    ]
+}

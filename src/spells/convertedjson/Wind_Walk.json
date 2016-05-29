@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (fire and holy water)","Material Description":"fire and holy water","S":true,"V":true,"M":true},"School":"transmutation","Casting Time":{"English":"1 minute","Seconds":60},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tYou and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical weapons. The only actions a creature can take in this form are the Dash action or to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and canâ\u20AC™t move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation. \n\tIf a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it canâ\u20AC™t land after 1 minute, the creature falls the remaining distance.\n","Range":{"English":"30 feet","Distance":30},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"288"},"Name":"Wind Walk","Classes":["druid"]}
+{
+    "Components": {
+        "English": "V, S, M (fire and holy water)",
+        "Material Description": "fire and holy water",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 minute",
+        "Seconds": 60
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tYou and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical weapons. The only actions a creature can take in this form are the Dash action or to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and canâ\u20ac™t move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation. \n\tIf a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it canâ\u20ac™t land after 1 minute, the creature falls the remaining distance.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "288"
+    },
+    "Name": "Wind Walk",
+    "Classes": ["druid"]
+}

@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"transmutation","Casting Time":{"English":"1 bonus action","Seconds":1},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 hour","Seconds":3600,"Concentration":true},"Effect":"\tYou touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.\n\tAt Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.\n","Range":{"English":"touch","Distance":5},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"257"},"Name":"Magic Weapon","Classes":["paladin","wizard"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 bonus action",
+        "Seconds": 1
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 hour",
+        "Seconds": 3600,
+        "Concentration": true
+    },
+    "Effect": "\tYou touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.\n\tAt Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "257"
+    },
+    "Name": "Magic Weapon",
+    "Classes": [
+        "paladin",
+        "wizard"
+    ]
+}

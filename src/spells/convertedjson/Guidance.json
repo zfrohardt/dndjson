@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"cantrip","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tYou touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.\n","Range":{"English":"touch","Distance":5},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"248"},"Name":"Guidance","Classes":["cleric","druid"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "cantrip",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tYou touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "248"
+    },
+    "Name": "Guidance",
+    "Classes": [
+        "cleric",
+        "druid"
+    ]
+}

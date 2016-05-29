@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)","Material Description":"a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes","S":true,"V":true,"M":true},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tFor the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target canâ\u20AC™t be targeted by any divination magic or perceived through magical scrying sensors.\n","Range":{"English":"touch","Distance":5},"Date":"2015-01-02","Source":{"Resource":"PHB","Location":"263"},"Name":"Nondetection","Classes":["bard","ranger","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)",
+        "Material Description": "a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tFor the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target canâ\u20ac™t be targeted by any divination magic or perceived through magical scrying sensors.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-01-02",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "263"
+    },
+    "Name": "Nondetection",
+    "Classes": [
+        "bard",
+        "ranger",
+        "wizard"
+    ]
+}

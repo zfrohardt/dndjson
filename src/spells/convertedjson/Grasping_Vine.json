@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"conjuration","Casting Time":{"English":"1 bonus action","Seconds":1},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tYou conjure a vine that sprouts from the ground in an unoccupied space of your choice that you can see within range. When you cast this spell, you can direct the vine to lash out at a creature within 30 feet of it that you can see. That creature must succeed on a Dexterity saving throw or be pulled 20 feet directly toward the vine.\n\tUntil the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.\n","Range":{"English":"30 feet","Distance":30},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"246"},"Name":"Grasping Vine","Classes":["ranger","druid"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 bonus action",
+        "Seconds": 1
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tYou conjure a vine that sprouts from the ground in an unoccupied space of your choice that you can see within range. When you cast this spell, you can direct the vine to lash out at a creature within 30 feet of it that you can see. That creature must succeed on a Dexterity saving throw or be pulled 20 feet directly toward the vine.\n\tUntil the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "246"
+    },
+    "Name": "Grasping Vine",
+    "Classes": [
+        "ranger",
+        "druid"
+    ]
+}

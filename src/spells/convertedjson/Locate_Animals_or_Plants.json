@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (a bit of fur from a bloodhound)","Material Description":"a bit of fur from a bloodhound","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tDescribe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.\n","Range":{"English":"self","Distance":0},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"256"},"Name":"Locate Animals or Plants","Classes":["bard","druid","ranger"]}
+{
+    "Components": {
+        "English": "V, S, M (a bit of fur from a bloodhound)",
+        "Material Description": "a bit of fur from a bloodhound",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tDescribe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "256"
+    },
+    "Name": "Locate Animals or Plants",
+    "Classes": [
+        "bard",
+        "druid",
+        "ranger"
+    ]
+}

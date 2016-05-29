@@ -1,1 +1,39 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"1 hour","Seconds":3600,"Concentration":false},"Effect":"\tA 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.\n\tIf you chose a point on an object you are holding or one that isnâ\u20AC™t being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.\n\tIf any of this spellâ\u20AC™s area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.\n","Range":{"English":"60 feet","Distance":60},"Date":"2015-01-01","Source":{"Resource":"PHB","Location":"230"},"Name":"Daylight","Classes":["cleric","druid","paladin","ranger","sorcerer"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "1 hour",
+        "Seconds": 3600,
+        "Concentration": false
+    },
+    "Effect": "\tA 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.\n\tIf you chose a point on an object you are holding or one that isnâ\u20ac™t being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.\n\tIf any of this spellâ\u20ac™s area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.\n",
+    "Range": {
+        "English": "60 feet",
+        "Distance": 60
+    },
+    "Date": "2015-01-01",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "230"
+    },
+    "Name": "Daylight",
+    "Classes": [
+        "cleric",
+        "druid",
+        "paladin",
+        "ranger",
+        "sorcerer"
+    ]
+}

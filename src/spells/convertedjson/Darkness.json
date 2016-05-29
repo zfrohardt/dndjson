@@ -1,1 +1,37 @@
-{"Components":{"English":"V, M (bat fur and a drop of pitch or piece of coal)","Material Description":"bat fur and a drop of pitch or piece of coal","S":false,"V":true,"M":true},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tMagical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision canâ\u20AC™t see through this darkness, and nonmagical light canâ\u20AC™t illuminate it. If the point you choose is on an object you are holding or one that isnâ\u20AC™t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness. If any of this spellâ\u20AC™s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled. \n","Range":{"English":"60 feet","Distance":60},"Date":"2015-01-07","Source":{"Resource":"PHB","Location":"230"},"Name":"Darkness","Classes":["sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, M (bat fur and a drop of pitch or piece of coal)",
+        "Material Description": "bat fur and a drop of pitch or piece of coal",
+        "S": false,
+        "V": true,
+        "M": true
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tMagical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision canâ\u20ac™t see through this darkness, and nonmagical light canâ\u20ac™t illuminate it. If the point you choose is on an object you are holding or one that isnâ\u20ac™t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness. If any of this spellâ\u20ac™s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled. \n",
+    "Range": {
+        "English": "60 feet",
+        "Distance": 60
+    },
+    "Date": "2015-01-07",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "230"
+    },
+    "Name": "Darkness",
+    "Classes": [
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

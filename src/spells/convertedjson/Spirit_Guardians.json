@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (a holy symbol)","Material Description":"a holy symbol","S":true,"V":true,"M":true},"School":"conjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tYou call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.\n\tWhen you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creatureâ\u20AC™s speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.\n\tAt Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.\n","Range":{"English":"self (15-foot radius)","Distance":0},"Date":"2015-01-02","Source":{"Resource":"PHB","Location":"278"},"Name":"Spirit Guardians","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V, S, M (a holy symbol)",
+        "Material Description": "a holy symbol",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tYou call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.\n\tWhen you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creatureâ\u20ac™s speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.\n\tAt Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.\n",
+    "Range": {
+        "English": "self (15-foot radius)",
+        "Distance": 0
+    },
+    "Date": "2015-01-02",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "278"
+    },
+    "Name": "Spirit Guardians",
+    "Classes": ["cleric"]
+}

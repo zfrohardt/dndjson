@@ -1,1 +1,37 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"conjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"cantrip","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou create a momentary circle of spectral blades that sweep around you. Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.\n\tThis spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).\n","Range":{"English":"5 feet","Distance":5},"Date":"2015-12-07","Source":{"Resource":"SCAG","Location":"143"},"Name":"Sword Burst","Classes":["sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "cantrip",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou create a momentary circle of spectral blades that sweep around you. Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.\n\tThis spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).\n",
+    "Range": {
+        "English": "5 feet",
+        "Distance": 5
+    },
+    "Date": "2015-12-07",
+    "Source": {
+        "Resource": "SCAG",
+        "Location": "143"
+    },
+    "Name": "Sword Burst",
+    "Classes": [
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

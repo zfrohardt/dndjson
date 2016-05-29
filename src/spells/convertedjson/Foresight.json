@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (a hummingbird feather)","Material Description":"a hummingbird feather","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 minute","Seconds":60},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tYou touch a willing creature and bestow a limited ability to see into the immediate future. For the duration the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.\n\tThis spell immediately ends if you cast it again before its duration ends.\n","Range":{"English":"touch","Distance":5},"Date":"2015-01-10","Source":{"Resource":"PHB","Location":"244"},"Name":"Foresight","Classes":[" [bard","druid","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a hummingbird feather)",
+        "Material Description": "a hummingbird feather",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 minute",
+        "Seconds": 60
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a willing creature and bestow a limited ability to see into the immediate future. For the duration the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.\n\tThis spell immediately ends if you cast it again before its duration ends.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-01-10",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "244"
+    },
+    "Name": "Foresight",
+    "Classes": [
+        " [bard",
+        "druid",
+        "warlock",
+        "wizard"
+    ]
+}

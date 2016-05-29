@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (paper or leaf in the shape of a funnel)","Material Description":"paper or leaf in the shape of a funnel","S":true,"V":true,"M":true},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tA mass of 5-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.\n","Range":{"English":"120 feet","Distance":120},"Date":"2015-11-19","Source":{"Resource":"EE","Location":"20"},"Name":"Maelstrom","Classes":["druid"]}
+{
+    "Components": {
+        "English": "V, S, M (paper or leaf in the shape of a funnel)",
+        "Material Description": "paper or leaf in the shape of a funnel",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tA mass of 5-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.\n",
+    "Range": {
+        "English": "120 feet",
+        "Distance": 120
+    },
+    "Date": "2015-11-19",
+    "Source": {
+        "Resource": "EE",
+        "Location": "20"
+    },
+    "Name": "Maelstrom",
+    "Classes": ["druid"]
+}

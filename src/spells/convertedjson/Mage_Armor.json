@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S, M (a piece of cured leather)","Material Description":"a piece of cured leather","S":true,"V":true,"M":true},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tYou touch a willing creature who isnâ\u20AC™t wearing armor, and a protective magical force surrounds it until the spell ends. The targetâ\u20AC™s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.\n","Range":{"English":"touch","Distance":5},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"256"},"Name":"Mage Armor","Classes":["sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a piece of cured leather)",
+        "Material Description": "a piece of cured leather",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a willing creature who isnâ\u20ac™t wearing armor, and a protective magical force surrounds it until the spell ends. The targetâ\u20ac™s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "256"
+    },
+    "Name": "Mage Armor",
+    "Classes": [
+        "sorcerer",
+        "wizard"
+    ]
+}

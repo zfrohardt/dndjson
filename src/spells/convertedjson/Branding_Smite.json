@@ -1,1 +1,33 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tThe next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if itâ\u20AC™s invisible, and the target sheds dim light in a 5-foot radius and canâ\u20AC™t become invisible until the spell ends.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.\n","Range":{"English":"self","Distance":0},"Date":"2015-01-07","Source":{"Resource":"PHB","Location":"219"},"Name":"Branding Smite","Classes":["paladin"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tThe next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if itâ\u20ac™s invisible, and the target sheds dim light in a 5-foot radius and canâ\u20ac™t become invisible until the spell ends.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2015-01-07",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "219"
+    },
+    "Name": "Branding Smite",
+    "Classes": ["paladin"]
+}

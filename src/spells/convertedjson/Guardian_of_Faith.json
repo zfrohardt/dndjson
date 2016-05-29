@@ -1,1 +1,33 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"conjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tA Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.\n\tAny creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.\n","Range":{"English":"30 feet","Distance":30},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"246"},"Name":"Guardian of Faith","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tA Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.\n\tAny creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "246"
+    },
+    "Name": "Guardian of Faith",
+    "Classes": ["cleric"]
+}

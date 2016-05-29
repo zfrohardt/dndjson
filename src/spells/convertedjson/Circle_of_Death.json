@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (the powder of a crushed black pearl worth at least 500 gp)","Material Description":"the powder of a crushed black pearl worth at least 500 gp","S":true,"V":true,"M":true},"School":"necromancy","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tA sphere of negative energy ripples out in a 60-foot- radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.\n\tAt Higher Levels. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.\n","Range":{"English":"150 feet","Distance":150},"Date":"2015-07-14","Source":{"Resource":"PHB","Location":"221"},"Name":"Circle of Death","Classes":["sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (the powder of a crushed black pearl worth at least 500 gp)",
+        "Material Description": "the powder of a crushed black pearl worth at least 500 gp",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "necromancy",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tA sphere of negative energy ripples out in a 60-foot- radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.\n\tAt Higher Levels. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.\n",
+    "Range": {
+        "English": "150 feet",
+        "Distance": 150
+    },
+    "Date": "2015-07-14",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "221"
+    },
+    "Name": "Circle of Death",
+    "Classes": [
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

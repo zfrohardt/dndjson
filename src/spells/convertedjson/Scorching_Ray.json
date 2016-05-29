@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.\n\tMake a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.\n","Range":{"English":"120 feet","Distance":120},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"273"},"Name":"Scorching Ray","Classes":["sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.\n\tMake a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.\n",
+    "Range": {
+        "English": "120 feet",
+        "Distance": 120
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "273"
+    },
+    "Name": "Scorching Ray",
+    "Classes": [
+        "sorcerer",
+        "wizard"
+    ]
+}

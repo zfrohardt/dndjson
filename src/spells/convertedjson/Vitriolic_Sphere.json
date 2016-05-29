@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S, M (a drop of giant slug bile)","Material Description":"a drop of giant slug bile","S":true,"V":true,"M":true},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou point at a place within range, and a glowing 1-foot ball of emerald acid streaks there and explodes in a 20-foot radius. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 10d4 acid damage and 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.\n\tAt Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.\n","Range":{"English":"150 feet","Distance":150},"Date":"2015-11-20","Source":{"Resource":"EE","Location":"23"},"Name":"Vitriolic Sphere","Classes":["sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a drop of giant slug bile)",
+        "Material Description": "a drop of giant slug bile",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou point at a place within range, and a glowing 1-foot ball of emerald acid streaks there and explodes in a 20-foot radius. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 10d4 acid damage and 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.\n\tAt Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.\n",
+    "Range": {
+        "English": "150 feet",
+        "Distance": 150
+    },
+    "Date": "2015-11-20",
+    "Source": {
+        "Resource": "EE",
+        "Location": "23"
+    },
+    "Name": "Vitriolic Sphere",
+    "Classes": [
+        "sorcerer",
+        "wizard"
+    ]
+}

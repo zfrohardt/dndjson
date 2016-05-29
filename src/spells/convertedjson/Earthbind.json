@@ -1,1 +1,38 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tChoose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spellâ\u20AC™s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.\n","Range":{"English":"300 feet","Distance":300},"Date":"2015-11-13","Source":{"Resource":"EE","Location":"17"},"Name":"Earthbind","Classes":["druid","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tChoose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spellâ\u20ac™s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.\n",
+    "Range": {
+        "English": "300 feet",
+        "Distance": 300
+    },
+    "Date": "2015-11-13",
+    "Source": {
+        "Resource": "EE",
+        "Location": "17"
+    },
+    "Name": "Earthbind",
+    "Classes": [
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

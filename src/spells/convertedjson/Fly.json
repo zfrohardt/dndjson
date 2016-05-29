@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (a wing feather from any bird)","Material Description":"a wing feather from any bird","S":true,"V":true,"M":true},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tYou touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.\n\tAt Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.\n","Range":{"English":"touch","Distance":5},"Date":"2015-01-01","Source":{"Resource":"PHB","Location":"243"},"Name":"Fly","Classes":["sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a wing feather from any bird)",
+        "Material Description": "a wing feather from any bird",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tYou touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.\n\tAt Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-01-01",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "243"
+    },
+    "Name": "Fly",
+    "Classes": [
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

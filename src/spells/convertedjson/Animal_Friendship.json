@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (a morsel of food)","Material Description":"a morsel of food","S":true,"V":true,"M":true},"School":"enchantment","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"24 hours","Seconds":86400,"Concentration":false},"Effect":"\tThis spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.\n\tAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.\n","Range":{"English":"30 feet","Distance":30},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"212"},"Name":"Animal Friendship","Classes":["bard","druid","ranger"]}
+{
+    "Components": {
+        "English": "V, S, M (a morsel of food)",
+        "Material Description": "a morsel of food",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "enchantment",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "24 hours",
+        "Seconds": 86400,
+        "Concentration": false
+    },
+    "Effect": "\tThis spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.\n\tAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "212"
+    },
+    "Name": "Animal Friendship",
+    "Classes": [
+        "bard",
+        "druid",
+        "ranger"
+    ]
+}

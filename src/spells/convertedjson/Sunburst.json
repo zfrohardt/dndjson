@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (fire and a piece of sunstone)","Material Description":"fire and a piece of sunstone","S":true,"V":true,"M":true},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tBrilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.\n\tA creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.\n\tThis spell dispels any darkness in its area that was created by a spell.\n","Range":{"English":"150 feet","Distance":150},"Date":"2015-01-10","Source":{"Resource":"PHB","Location":"279"},"Name":"Sunburst","Classes":[" [druid","sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (fire and a piece of sunstone)",
+        "Material Description": "fire and a piece of sunstone",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tBrilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.\n\tA creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.\n\tThis spell dispels any darkness in its area that was created by a spell.\n",
+    "Range": {
+        "English": "150 feet",
+        "Distance": 150
+    },
+    "Date": "2015-01-10",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "279"
+    },
+    "Name": "Sunburst",
+    "Classes": [
+        " [druid",
+        "sorcerer",
+        "wizard"
+    ]
+}

@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (pieces of eggshell from two different kinds of creatures)","Material Description":"pieces of eggshell from two different kinds of creatures","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"1 hour","Seconds":3600,"Concentration":false},"Effect":"\tYou forge a telepathic link among up to eight willing creatures o f your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores o f 2 or less arenâ\u20AC™t affected by this spell.\n\tUntil the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it canâ\u20AC™t extend to other planes of existence.\n","Range":{"English":"30 feet","Distance":30},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"270"},"Name":"Rary's Telepathic Bond","Classes":["[wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (pieces of eggshell from two different kinds of creatures)",
+        "Material Description": "pieces of eggshell from two different kinds of creatures",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "1 hour",
+        "Seconds": 3600,
+        "Concentration": false
+    },
+    "Effect": "\tYou forge a telepathic link among up to eight willing creatures o f your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores o f 2 or less arenâ\u20ac™t affected by this spell.\n\tUntil the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it canâ\u20ac™t extend to other planes of existence.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "270"
+    },
+    "Name": "Rary's Telepathic Bond",
+    "Classes": ["[wizard"]
+}

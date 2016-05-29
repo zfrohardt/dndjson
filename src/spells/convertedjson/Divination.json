@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)","Material Description":"incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYour magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.\n\tThe spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.\n\tIf you cast this spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.\n","Range":{"English":"self","Distance":0},"Date":"2015-07-14","Source":{"Resource":"PHB","Location":"234"},"Name":"Divination","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)",
+        "Material Description": "incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYour magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.\n\tThe spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.\n\tIf you cast this spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2015-07-14",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "234"
+    },
+    "Name": "Divination",
+    "Classes": ["cleric"]
+}

@@ -1,1 +1,40 @@
-{"Components":{"English":"V, S, M (a small, straight piece of iron)","Material Description":"a small, straight piece of iron","S":true,"V":true,"M":true},"School":"enchantment","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tChoose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. \n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.\n","Range":{"English":"60 feet","Distance":60},"Date":"2014-12-31","Source":{"Resource":"PHB","Location":"251"},"Name":"Hold Person","Classes":["bard","cleric","druid","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a small, straight piece of iron)",
+        "Material Description": "a small, straight piece of iron",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "enchantment",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tChoose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. \n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.\n",
+    "Range": {
+        "English": "60 feet",
+        "Distance": 60
+    },
+    "Date": "2014-12-31",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "251"
+    },
+    "Name": "Hold Person",
+    "Classes": [
+        "bard",
+        "cleric",
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

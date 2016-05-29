@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S, M (a bit of fur wrapped in a cloth)","Material Description":"a bit of fur wrapped in a cloth","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tYou establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beastâ\u20AC™s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.\n","Range":{"English":"touch","Distance":5},"Date":"2015-11-12","Source":{"Resource":"EE","Location":"15"},"Name":"Beast Bond","Classes":["druid","ranger"]}
+{
+    "Components": {
+        "English": "V, S, M (a bit of fur wrapped in a cloth)",
+        "Material Description": "a bit of fur wrapped in a cloth",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tYou establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beastâ\u20ac™s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-11-12",
+    "Source": {
+        "Resource": "EE",
+        "Location": "15"
+    },
+    "Name": "Beast Bond",
+    "Classes": [
+        "druid",
+        "ranger"
+    ]
+}

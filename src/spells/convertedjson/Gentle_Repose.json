@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)","Material Description":"a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration","S":true,"V":true,"M":true},"School":"necromancy","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"10 days","Seconds":864000,"Concentration":false},"Effect":"\tYou touch a corpse or other remains. For the duration, the target is protected from decay and canâ\u20AC™t become undead.\n\tThe spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell donâ\u20AC™t count against the time limit of spells such as *[raise dead](..\/raise-dead\/ \"raise dead (lvl 5)\")*.\n","Range":{"English":"touch","Distance":5},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"245"},"Name":"Gentle Repose","Classes":["cleric","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)",
+        "Material Description": "a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "necromancy",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "10 days",
+        "Seconds": 864000,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a corpse or other remains. For the duration, the target is protected from decay and canâ\u20ac™t become undead.\n\tThe spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell donâ\u20ac™t count against the time limit of spells such as *[raise dead](../raise-dead/ \"raise dead (lvl 5)\")*.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "245"
+    },
+    "Name": "Gentle Repose",
+    "Classes": [
+        "cleric",
+        "wizard"
+    ]
+}

@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (incense and a vial of holy or unholy water)","Material Description":"incense and a vial of holy or unholy water","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 minute","Seconds":60},"Ritual":true,"Level":"","Duration":{"English":"1 minute","Seconds":60,"Concentration":false},"Effect":"\tYou contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.\n\tDivine beings aren't necessarily omniscient, so you might receive \"unclear\" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.\n\tIf you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.\n","Range":{"English":"self","Distance":0},"Date":"2015-07-14","Source":{"Resource":"PHB","Location":"223"},"Name":"Commune","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V, S, M (incense and a vial of holy or unholy water)",
+        "Material Description": "incense and a vial of holy or unholy water",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 minute",
+        "Seconds": 60
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "1 minute",
+        "Seconds": 60,
+        "Concentration": false
+    },
+    "Effect": "\tYou contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.\n\tDivine beings aren't necessarily omniscient, so you might receive \"unclear\" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.\n\tIf you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2015-07-14",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "223"
+    },
+    "Name": "Commune",
+    "Classes": ["cleric"]
+}

@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"1 hour","Seconds":3600,"Concentration":false},"Effect":"\tYou touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random. For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.\n","Range":{"English":"touch","Distance":5},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"270"},"Name":"Protection from Poison","Classes":["cleric","ranger","paladin","druid"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "1 hour",
+        "Seconds": 3600,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random. For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "270"
+    },
+    "Name": "Protection from Poison",
+    "Classes": [
+        "cleric",
+        "ranger",
+        "paladin",
+        "druid"
+    ]
+}

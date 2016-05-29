@@ -1,1 +1,36 @@
-{"Components":{"English":"V, S, M (holy water or powdered silver and iron)","Material Description":"holy water or powdered silver and iron","S":true,"V":true,"M":true},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tShimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.\n\tYou can end the spell early by using either of the following special functions.\n\tBreak Enchantment. As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.\n\tDismissal. As your action, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.\n","Range":{"English":"self","Distance":0},"Date":"2015-07-14","Source":{"Resource":"PHB","Location":"233"},"Name":"Dispel Evil and Good","Classes":["cleric","paladin"]}
+{
+    "Components": {
+        "English": "V, S, M (holy water or powdered silver and iron)",
+        "Material Description": "holy water or powdered silver and iron",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tShimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.\n\tYou can end the spell early by using either of the following special functions.\n\tBreak Enchantment. As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.\n\tDismissal. As your action, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2015-07-14",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "233"
+    },
+    "Name": "Dispel Evil and Good",
+    "Classes": [
+        "cleric",
+        "paladin"
+    ]
+}

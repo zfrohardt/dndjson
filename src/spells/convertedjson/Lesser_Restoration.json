@@ -1,1 +1,39 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.\n","Range":{"English":"touch","Distance":5},"Date":"2014-12-31","Source":{"Resource":"PHB","Location":"255"},"Name":"Lesser Restoration","Classes":["bard","cleric","druid","paladin","ranger"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2014-12-31",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "255"
+    },
+    "Name": "Lesser Restoration",
+    "Classes": [
+        "bard",
+        "cleric",
+        "druid",
+        "paladin",
+        "ranger"
+    ]
+}

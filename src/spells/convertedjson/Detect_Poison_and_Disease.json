@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (a yew leaf)","Material Description":"a yew leaf","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tFor the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.\n\tThe spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.\n","Range":{"English":"self","Distance":0},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"231"},"Name":"Detect Poison and Disease","Classes":["cleric","druid","paladin","ranger"]}
+{
+    "Components": {
+        "English": "V, S, M (a yew leaf)",
+        "Material Description": "a yew leaf",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tFor the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.\n\tThe spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "231"
+    },
+    "Name": "Detect Poison and Disease",
+    "Classes": [
+        "cleric",
+        "druid",
+        "paladin",
+        "ranger"
+    ]
+}

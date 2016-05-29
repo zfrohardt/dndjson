@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"10 minutes","Seconds":600,"Concentration":false},"Effect":"\tYou gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at a minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.\n","Range":{"English":"self","Distance":0},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"277"},"Name":"Speak with Animals","Classes":["bard","druid","ranger"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "10 minutes",
+        "Seconds": 600,
+        "Concentration": false
+    },
+    "Effect": "\tYou gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at a minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "277"
+    },
+    "Name": "Speak with Animals",
+    "Classes": [
+        "bard",
+        "druid",
+        "ranger"
+    ]
+}

@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (a pinch of dust and a few drops of water)","Material Description":"a pinch of dust and a few drops of water","S":true,"V":true,"M":true},"School":"conjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tUntil the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.\n\tThe ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spellâ\u20AC™s area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, it falls prone.\n\tIf a creature is concentrating in the spellâ\u20AC™s area, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.\n","Range":{"English":"150 feet","Distance":150},"Date":"2015-01-02","Source":{"Resource":"PHB","Location":"276"},"Name":"Sleet Storm","Classes":["druid","sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a pinch of dust and a few drops of water)",
+        "Material Description": "a pinch of dust and a few drops of water",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tUntil the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.\n\tThe ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spellâ\u20ac™s area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, it falls prone.\n\tIf a creature is concentrating in the spellâ\u20ac™s area, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.\n",
+    "Range": {
+        "English": "150 feet",
+        "Distance": 150
+    },
+    "Date": "2015-01-02",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "276"
+    },
+    "Name": "Sleet Storm",
+    "Classes": [
+        "druid",
+        "sorcerer",
+        "wizard"
+    ]
+}

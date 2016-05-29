@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (holy water or powdered silver and iron, which the spell consumes)","Material Description":"holy water or powdered silver and iron, which the spell consumes","S":true,"V":true,"M":true},"School":"abjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tUntil the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.\n\tThe protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.\n","Range":{"English":"touch","Distance":5},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"270"},"Name":"Protection from Evil and Good","Classes":["cleric","paladin","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (holy water or powdered silver and iron, which the spell consumes)",
+        "Material Description": "holy water or powdered silver and iron, which the spell consumes",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "abjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tUntil the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.\n\tThe protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "270"
+    },
+    "Name": "Protection from Evil and Good",
+    "Classes": [
+        "cleric",
+        "paladin",
+        "warlock",
+        "wizard"
+    ]
+}

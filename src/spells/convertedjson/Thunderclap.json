@@ -1,1 +1,39 @@
-{"Components":{"English":"S","Material Description":"None","S":true,"V":false,"M":false},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"cantrip","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.\n\tThe spellâ\u20AC™s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).\n","Range":{"English":"self (5-foot radius)","Distance":0},"Date":"2015-08-31","Source":{"Resource":"EE","Location":"22"},"Name":"Thunderclap","Classes":["bard","druid","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "S",
+        "Material Description": "None",
+        "S": true,
+        "V": false,
+        "M": false
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "cantrip",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.\n\tThe spellâ\u20ac™s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).\n",
+    "Range": {
+        "English": "self (5-foot radius)",
+        "Distance": 0
+    },
+    "Date": "2015-08-31",
+    "Source": {
+        "Resource": "EE",
+        "Location": "22"
+    },
+    "Name": "Thunderclap",
+    "Classes": [
+        "bard",
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

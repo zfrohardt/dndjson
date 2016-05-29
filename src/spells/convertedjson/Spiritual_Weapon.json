@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"evocation","Casting Time":{"English":"1 bonus action","Seconds":1},"Ritual":false,"Level":"","Duration":{"English":"1 minute","Seconds":60,"Concentration":false},"Effect":"\tYou create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.\n\tAs a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spellâ\u20AC™s effect resemble that weapon.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.\n","Range":{"English":"60 feet","Distance":60},"Date":"2014-12-31","Source":{"Resource":"PHB","Location":"278"},"Name":"Spiritual Weapon","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 bonus action",
+        "Seconds": 1
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "1 minute",
+        "Seconds": 60,
+        "Concentration": false
+    },
+    "Effect": "\tYou create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.\n\tAs a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spellâ\u20ac™s effect resemble that weapon.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.\n",
+    "Range": {
+        "English": "60 feet",
+        "Distance": 60
+    },
+    "Date": "2014-12-31",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "278"
+    },
+    "Name": "Spiritual Weapon",
+    "Classes": ["cleric"]
+}

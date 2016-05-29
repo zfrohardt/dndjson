@@ -1,1 +1,38 @@
-{"Components":{"English":"S","Material Description":"None","S":true,"V":false,"M":false},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"cantrip","Duration":{"English":"concentration, up to 1 round","Seconds":6,"Concentration":true},"Effect":"\tYou extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.\n","Range":{"English":"30 feet","Distance":30},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"284"},"Name":"True Strike","Classes":["bard","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "S",
+        "Material Description": "None",
+        "S": true,
+        "V": false,
+        "M": false
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "cantrip",
+    "Duration": {
+        "English": "concentration, up to 1 round",
+        "Seconds": 6,
+        "Concentration": true
+    },
+    "Effect": "\tYou extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "284"
+    },
+    "Name": "True Strike",
+    "Classes": [
+        "bard",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

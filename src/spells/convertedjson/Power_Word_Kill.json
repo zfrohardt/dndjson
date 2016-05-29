@@ -1,1 +1,38 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"enchantment","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou utter a word of power that can compel one creature you can see within range to die instantly.  If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.\n","Range":{"English":"60 feet","Distance":60},"Date":"2015-01-10","Source":{"Resource":"PHB","Location":"266"},"Name":"Power Word Kill","Classes":[" [bard","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "enchantment",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou utter a word of power that can compel one creature you can see within range to die instantly.  If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.\n",
+    "Range": {
+        "English": "60 feet",
+        "Distance": 60
+    },
+    "Date": "2015-01-10",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "266"
+    },
+    "Name": "Power Word Kill",
+    "Classes": [
+        " [bard",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

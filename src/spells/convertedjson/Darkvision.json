@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (either a pinch of dried carrot or an agate)","Material Description":"either a pinch of dried carrot or an agate","S":true,"V":true,"M":true},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tYou touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.\n","Range":{"English":"touch","Distance":5},"Date":"2015-01-07","Source":{"Resource":"PHB","Location":"230"},"Name":"Darkvision","Classes":["druid","ranger","sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (either a pinch of dried carrot or an agate)",
+        "Material Description": "either a pinch of dried carrot or an agate",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tYou touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-01-07",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "230"
+    },
+    "Name": "Darkvision",
+    "Classes": [
+        "druid",
+        "ranger",
+        "sorcerer",
+        "wizard"
+    ]
+}

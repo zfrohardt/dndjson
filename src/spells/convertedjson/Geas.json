@@ -1,1 +1,39 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"enchantment","Casting Time":{"English":"1 minute","Seconds":60},"Ritual":false,"Level":"","Duration":{"English":"30 days","Seconds":2592000,"Concentration":false},"Effect":"\tYou place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.\n\tYou can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends. \n\tYou can end the spell early by using an action to dismiss it. A *[remove curse](..\/remove-curse\/ \"remove curse (lvl 3)\")*, *[greater restoration](..\/greater-restoration\/ \"greater restoration (lvl 5)\")*, or *[wish](..\/wish\/ \"wish (lvl 9)\")* spell also ends it.\n\tAt Higher Levels. When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.\n","Range":{"English":"60 feet","Distance":60},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"245"},"Name":"Geas","Classes":["cleric","wizard","paladin","druid","bard"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "enchantment",
+    "Casting Time": {
+        "English": "1 minute",
+        "Seconds": 60
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "30 days",
+        "Seconds": 2592000,
+        "Concentration": false
+    },
+    "Effect": "\tYou place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.\n\tYou can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends. \n\tYou can end the spell early by using an action to dismiss it. A *[remove curse](../remove-curse/ \"remove curse (lvl 3)\")*, *[greater restoration](../greater-restoration/ \"greater restoration (lvl 5)\")*, or *[wish](../wish/ \"wish (lvl 9)\")* spell also ends it.\n\tAt Higher Levels. When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.\n",
+    "Range": {
+        "English": "60 feet",
+        "Distance": 60
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "245"
+    },
+    "Name": "Geas",
+    "Classes": [
+        "cleric",
+        "wizard",
+        "paladin",
+        "druid",
+        "bard"
+    ]
+}

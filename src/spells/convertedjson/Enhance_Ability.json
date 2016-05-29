@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (fur or a feather from a beast)","Material Description":"fur or a feather from a beast","S":true,"V":true,"M":true},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 hour","Seconds":3600,"Concentration":true},"Effect":"\tYou touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.\n\tBear's Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.\n\tBull's Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.\n\tCat's Grace. The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.\n\tEagle's Splendor. The target has advantage on Charisma checks.\n\tFox's Cunning. The target has advantage on Intelligence checks.\n\tOwl's Wisdom. The target has advantage on Wisdom checks.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.\n","Range":{"English":"touch","Distance":5},"Date":"2015-07-14","Source":{"Resource":"PHB","Location":"237"},"Name":"Enhance Ability","Classes":["bard","cleric","druid","sorcerer"]}
+{
+    "Components": {
+        "English": "V, S, M (fur or a feather from a beast)",
+        "Material Description": "fur or a feather from a beast",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 hour",
+        "Seconds": 3600,
+        "Concentration": true
+    },
+    "Effect": "\tYou touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.\n\tBear's Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.\n\tBull's Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.\n\tCat's Grace. The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.\n\tEagle's Splendor. The target has advantage on Charisma checks.\n\tFox's Cunning. The target has advantage on Intelligence checks.\n\tOwl's Wisdom. The target has advantage on Wisdom checks.\n\tAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-07-14",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "237"
+    },
+    "Name": "Enhance Ability",
+    "Classes": [
+        "bard",
+        "cleric",
+        "druid",
+        "sorcerer"
+    ]
+}

@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S, M (a copper piece)","Material Description":"a copper piece","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tFor the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesnâ\u20AC™t speak any language, the creature is unaffected.\n\tYou initially learn the surface thoughts of the creatureâ\u20AC\u201Dwhat is most on its mind in that moment. As an action, you can either shift your attention to another creatureâ\u20AC™s thoughts or attempt to probe deeper into the same creatureâ\u20AC™s mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creatureâ\u20AC™s thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.\n\tQuestions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation. You can also use this spell to detect the presence of thinking creatures you canâ\u20AC™t see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You canâ\u20AC™t detect a creature with an Intelligence of 3 or lower or one that doesnâ\u20AC™t speak any language. \n\tOnce you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you canâ\u20AC™t see it, but it must still be within range.\n","Range":{"English":"self","Distance":0},"Date":"2015-01-07","Source":{"Resource":"PHB","Location":"231"},"Name":"Detect Thoughts","Classes":["bard","sorcerer","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a copper piece)",
+        "Material Description": "a copper piece",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tFor the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesnâ\u20ac™t speak any language, the creature is unaffected.\n\tYou initially learn the surface thoughts of the creatureâ\u20ac\u201dwhat is most on its mind in that moment. As an action, you can either shift your attention to another creatureâ\u20ac™s thoughts or attempt to probe deeper into the same creatureâ\u20ac™s mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creatureâ\u20ac™s thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.\n\tQuestions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation. You can also use this spell to detect the presence of thinking creatures you canâ\u20ac™t see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You canâ\u20ac™t detect a creature with an Intelligence of 3 or lower or one that doesnâ\u20ac™t speak any language. \n\tOnce you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you canâ\u20ac™t see it, but it must still be within range.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2015-01-07",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "231"
+    },
+    "Name": "Detect Thoughts",
+    "Classes": [
+        "bard",
+        "sorcerer",
+        "wizard"
+    ]
+}

@@ -1,1 +1,33 @@
-{"Components":{"English":"V","Material Description":"None","S":false,"V":true,"M":false},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"cantrip","Duration":{"English":"up to 1 minute","Seconds":60,"Concentration":false},"Effect":"\tYou manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:\n\t* Your voice booms up to three times as loud as normal for 1 minute.\n* You cause flames to flicker, brighten, dim, or change color for 1 minute.\n* You cause harmless tremors in the ground for 1 minute.\n* You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.\n* You instantaneously cause an unlocked door or window to fly open or slam shut.\n* You alter the appearance of your eyes for 1 minute. \n\tIf you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.\n","Range":{"English":"30 feet","Distance":30},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"282"},"Name":"Thaumaturgy","Classes":["cleric"]}
+{
+    "Components": {
+        "English": "V",
+        "Material Description": "None",
+        "S": false,
+        "V": true,
+        "M": false
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "cantrip",
+    "Duration": {
+        "English": "up to 1 minute",
+        "Seconds": 60,
+        "Concentration": false
+    },
+    "Effect": "\tYou manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:\n\t* Your voice booms up to three times as loud as normal for 1 minute.\n* You cause flames to flicker, brighten, dim, or change color for 1 minute.\n* You cause harmless tremors in the ground for 1 minute.\n* You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.\n* You instantaneously cause an unlocked door or window to fly open or slam shut.\n* You alter the appearance of your eyes for 1 minute. \n\tIf you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "282"
+    },
+    "Name": "Thaumaturgy",
+    "Classes": ["cleric"]
+}

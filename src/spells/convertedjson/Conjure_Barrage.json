@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (one piece of ammunition or a thrown weapon)","Material Description":"one piece of ammunition or a thrown weapon","S":true,"V":true,"M":true},"School":"conjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"instantaneous","Seconds":0,"Concentration":false},"Effect":"\tYou throw a nonmagical weapon or fire a piece of nonmagical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Dexterity saving throw. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component.\n","Range":{"English":"self (60-foot cone)","Distance":0},"Date":"2015-01-01","Source":{"Resource":"PHB","Location":"225"},"Name":"Conjure Barrage","Classes":["ranger"]}
+{
+    "Components": {
+        "English": "V, S, M (one piece of ammunition or a thrown weapon)",
+        "Material Description": "one piece of ammunition or a thrown weapon",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "instantaneous",
+        "Seconds": 0,
+        "Concentration": false
+    },
+    "Effect": "\tYou throw a nonmagical weapon or fire a piece of nonmagical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Dexterity saving throw. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component.\n",
+    "Range": {
+        "English": "self (60-foot cone)",
+        "Distance": 0
+    },
+    "Date": "2015-01-01",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "225"
+    },
+    "Name": "Conjure Barrage",
+    "Classes": ["ranger"]
+}

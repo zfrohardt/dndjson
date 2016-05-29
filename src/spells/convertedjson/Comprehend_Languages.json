@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (a pinch of soot and salt)","Material Description":"a pinch of soot and salt","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":true,"Level":"","Duration":{"English":"1 hour","Seconds":3600,"Concentration":false},"Effect":"\tFor the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. \n\tThis spell doesnâ\u20AC™t decode secret messages in a text or a glyph, such as an arcane sigil, that isnâ\u20AC™t part of a written language.\n","Range":{"English":"self","Distance":0},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"224"},"Name":"Comprehend Languages","Classes":["bard","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a pinch of soot and salt)",
+        "Material Description": "a pinch of soot and salt",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": true,
+    "Level": "",
+    "Duration": {
+        "English": "1 hour",
+        "Seconds": 3600,
+        "Concentration": false
+    },
+    "Effect": "\tFor the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. \n\tThis spell doesnâ\u20ac™t decode secret messages in a text or a glyph, such as an arcane sigil, that isnâ\u20ac™t part of a written language.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "224"
+    },
+    "Name": "Comprehend Languages",
+    "Classes": [
+        "bard",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

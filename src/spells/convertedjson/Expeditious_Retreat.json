@@ -1,1 +1,37 @@
-{"Components":{"English":"V, S","Material Description":"None","S":true,"V":true,"M":false},"School":"transmutation","Casting Time":{"English":"1 bonus action","Seconds":1},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tThis spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.\n","Range":{"English":"self","Distance":0},"Date":"2014-08-24","Source":{"Resource":"PHB","Location":"238"},"Name":"Expeditious Retreat","Classes":["sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S",
+        "Material Description": "None",
+        "S": true,
+        "V": true,
+        "M": false
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 bonus action",
+        "Seconds": 1
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tThis spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.\n",
+    "Range": {
+        "English": "self",
+        "Distance": 0
+    },
+    "Date": "2014-08-24",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "238"
+    },
+    "Name": "Expeditious Retreat",
+    "Classes": [
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

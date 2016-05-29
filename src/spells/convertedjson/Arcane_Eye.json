@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (a bit of bat fur)","Material Description":"a bit of bat fur","S":true,"V":true,"M":true},"School":"divination","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 hour","Seconds":3600,"Concentration":true},"Effect":"\tYou create an invisible, magical eye within range that hovers in the for the duration.\n\tYou mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.\n\tAs an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.\n","Range":{"English":"30 feet","Distance":30},"Date":"2015-01-01","Source":{"Resource":"PHB","Location":"214"},"Name":"Arcane Eye","Classes":["wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a bit of bat fur)",
+        "Material Description": "a bit of bat fur",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "divination",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 hour",
+        "Seconds": 3600,
+        "Concentration": true
+    },
+    "Effect": "\tYou create an invisible, magical eye within range that hovers in the for the duration.\n\tYou mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.\n\tAs an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2015-01-01",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "214"
+    },
+    "Name": "Arcane Eye",
+    "Classes": ["wizard"]
+}

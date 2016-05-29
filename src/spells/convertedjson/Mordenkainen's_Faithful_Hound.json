@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (a tiny silver whistle, a piece of bone, and a thread)","Material Description":"a tiny silver whistle, a piece of bone, and a thread","S":true,"V":true,"M":true},"School":"conjuration","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"8 hours","Seconds":28800,"Concentration":false},"Effect":"\tYou conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away from it.\n\tThe hound is invisible to all creatures except you and can't be harmed. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound sees invisible creatures and can see into the Ethereal Plane. It ignores illusions.\n\tAt the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The houndâ\u20AC™s attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals 4d8 piercing damage.\n","Range":{"English":"30 feet","Distance":30},"Date":"2015-07-30","Source":{"Resource":"PHB","Location":"261"},"Name":"Mordenkainen's Faithful Hound","Classes":["wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a tiny silver whistle, a piece of bone, and a thread)",
+        "Material Description": "a tiny silver whistle, a piece of bone, and a thread",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "conjuration",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "8 hours",
+        "Seconds": 28800,
+        "Concentration": false
+    },
+    "Effect": "\tYou conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away from it.\n\tThe hound is invisible to all creatures except you and can't be harmed. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound sees invisible creatures and can see into the Ethereal Plane. It ignores illusions.\n\tAt the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The houndâ\u20ac™s attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals 4d8 piercing damage.\n",
+    "Range": {
+        "English": "30 feet",
+        "Distance": 30
+    },
+    "Date": "2015-07-30",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "261"
+    },
+    "Name": "Mordenkainen's Faithful Hound",
+    "Classes": ["wizard"]
+}

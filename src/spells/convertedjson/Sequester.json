@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes)","Material Description":"a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes","S":true,"V":true,"M":true},"School":"transmutation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"until dispelled","Seconds":2147483647,"Concentration":false},"Effect":"\tBy means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.\n\tIf the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.\n\tYou can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target.  Examples include \"after 1,000 years\" or \"when the tarrasque awakens.\" This spell also ends if the target takes any damage.\n","Range":{"English":"touch","Distance":5},"Date":"2015-01-12","Source":{"Resource":"PHB","Location":"274"},"Name":"Sequester","Classes":[" [wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes)",
+        "Material Description": "a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "transmutation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "until dispelled",
+        "Seconds": 2147483647,
+        "Concentration": false
+    },
+    "Effect": "\tBy means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.\n\tIf the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.\n\tYou can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target.  Examples include \"after 1,000 years\" or \"when the tarrasque awakens.\" This spell also ends if the target takes any damage.\n",
+    "Range": {
+        "English": "touch",
+        "Distance": 5
+    },
+    "Date": "2015-01-12",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "274"
+    },
+    "Name": "Sequester",
+    "Classes": [" [wizard"]
+}

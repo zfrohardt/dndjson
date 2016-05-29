@@ -1,1 +1,38 @@
-{"Components":{"English":"V, S, M (a white feather or the heart of a hen)","Material Description":"a white feather or the heart of a hen","S":true,"V":true,"M":true},"School":"illusion","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 1 minute","Seconds":60,"Concentration":true},"Effect":"\tYou project a phantasmal image of a creatureâ\u20AC™s worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration.\n\tWhile frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesnâ\u20AC™t have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.\n","Range":{"English":"self (30-foot cone)","Distance":0},"Date":"2015-01-01","Source":{"Resource":"PHB","Location":"239"},"Name":"Fear","Classes":["bard","sorcerer","warlock","wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a white feather or the heart of a hen)",
+        "Material Description": "a white feather or the heart of a hen",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "illusion",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 1 minute",
+        "Seconds": 60,
+        "Concentration": true
+    },
+    "Effect": "\tYou project a phantasmal image of a creatureâ\u20ac™s worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration.\n\tWhile frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesnâ\u20ac™t have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.\n",
+    "Range": {
+        "English": "self (30-foot cone)",
+        "Distance": 0
+    },
+    "Date": "2015-01-01",
+    "Source": {
+        "Resource": "PHB",
+        "Location": "239"
+    },
+    "Name": "Fear",
+    "Classes": [
+        "bard",
+        "sorcerer",
+        "warlock",
+        "wizard"
+    ]
+}

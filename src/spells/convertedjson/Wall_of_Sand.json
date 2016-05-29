@@ -1,1 +1,33 @@
-{"Components":{"English":"V, S, M (a handful of sand)","Material Description":"a handful of sand","S":true,"V":true,"M":true},"School":"evocation","Casting Time":{"English":"1 action","Seconds":5},"Ritual":false,"Level":"","Duration":{"English":"concentration, up to 10 minutes","Seconds":600,"Concentration":true},"Effect":"\tYou conjure up a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wallâ\u20AC™s space and must spend 3 feet of movement for every 1 foot it moves there.\n","Range":{"English":"90 feet","Distance":90},"Date":"2015-11-22","Source":{"Resource":"EE","Location":"23"},"Name":"Wall of Sand","Classes":["wizard"]}
+{
+    "Components": {
+        "English": "V, S, M (a handful of sand)",
+        "Material Description": "a handful of sand",
+        "S": true,
+        "V": true,
+        "M": true
+    },
+    "School": "evocation",
+    "Casting Time": {
+        "English": "1 action",
+        "Seconds": 5
+    },
+    "Ritual": false,
+    "Level": "",
+    "Duration": {
+        "English": "concentration, up to 10 minutes",
+        "Seconds": 600,
+        "Concentration": true
+    },
+    "Effect": "\tYou conjure up a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wallâ\u20ac™s space and must spend 3 feet of movement for every 1 foot it moves there.\n",
+    "Range": {
+        "English": "90 feet",
+        "Distance": 90
+    },
+    "Date": "2015-11-22",
+    "Source": {
+        "Resource": "EE",
+        "Location": "23"
+    },
+    "Name": "Wall of Sand",
+    "Classes": ["wizard"]
+}
